@@ -1,0 +1,7 @@
+QMUL	/home/sk47/workspace/trackdata/Dataset/QMUL/original_trajectory (146)
+
+UCF	/home/sk47/workspace/trackdata/Dataset/UCF_Crowd/custTrajectory (76)
+
+MIT	/home/sk47/workspace/trackdata/Dataset/MIT/CustTrajectory (take only 449 trajectories)
+
+GCS	/home/sk47/workspace/trackdata/Dataset/STATION/cust_trajectory_400 (first 1000 trajectories)
